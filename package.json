@@ -22,7 +22,7 @@
     "react-day-picker": "^8.10.0",
     "react-dom": "^18",
     "sonner": "^1.4.0",
-    "tailwind-merge": "^2.2.1",
+    "tailwind-merge": "^2.2.2",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
